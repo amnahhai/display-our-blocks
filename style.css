@@ -1,0 +1,73 @@
+img{
+    width: 150px;
+    height: 150px;
+    border: solid;
+    border-color: aqua;
+}
+.container{
+    width: 950px;
+    background-color: #FFC0CB;
+    margin: 0px auto;
+    padding: 0.5em;
+}
+h1{
+    text-align: center;
+    color: #CD5C5C   ;
+    font-style: bold;
+    font-family: 'Dancing Script', cursive;
+
+}
+#kiki{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top:2em;
+    margin-left: 5em;
+
+}
+
+#totoro{
+    width: 800px;
+    height: 200px;;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 5em;
+    margin-top: -55px;
+}
+
+#spirit{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 5em;
+    margin-top: -55px;
+
+}
+#nono{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 5em;
+    margin-top: -55px;
+
+}
+
+.dis{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.dis img {
+    border: none;
+    width: 150px;
+    height: 100px;
+}
